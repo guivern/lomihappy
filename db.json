@@ -1,93 +1,13 @@
 {
-    "secciones": [
+    "users": [
         {
-            "nombre": "Lomitos Clásicos",
-            "items": [
-                {
-                    "sku": "LOM001",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Árabe Completo Carne",
-                    "descripcion": "Carne, lechuga, tomate, cebolla, huevo, jamón, queso y papas pay",
-                    "precio": 28000
-                },
-                {
-                    "sku": "LOM002",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Árabe Completo Pollo",
-                    "descripcion": "Pollo, lechuga, tomate, cebolla, huevo, jamón, queso y papas pay",
-                    "precio": 28000
-                },
-                {
-                    "sku": "LOM003",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Árabe Completo Mixto",
-                    "descripcion": "Carne y pollo, lechuga, tomate, cebolla, huevo, jamón, queso y papas pay",
-                    "precio": 30000
-                },
-                {
-                    "sku": "LOM004",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Árabe Simple Carne",
-                    "descripcion": "Carne, lechuga, tomate, cebolla",
-                    "precio": 23000
-                },
-                {
-                    "sku": "LOM005",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Árabe Simple Pollo",
-                    "descripcion": "Pollo, lechuga, tomate, cebolla",
-                    "precio": 23000
-                },
-                {
-                    "sku": "LOM006",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Árabe Simple Mixto",
-                    "descripcion": "Carne y pollo, lechuga, tomate, cebolla",
-                    "precio": 25000
-                },
-                {
-                    "sku": "LOM007",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Tradicional Paraguayo Carne",
-                    "descripcion": "Pan tipo francés, carne, lechuga, tomate, cebolla, huevo, jamón, queso",
-                    "precio": 27000
-                },
-                {
-                    "sku": "LOM008",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Tradicional Paraguayo Pollo",
-                    "descripcion": "Pan tipo francés, pollo, lechuga, tomate, cebolla, huevo, jamón, queso",
-                    "precio": 27000
-                },
-                {
-                    "sku": "LOM009",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Tradicional Paraguayo Mixto",
-                    "descripcion": "Pan tipo francés, carne y pollo, lechuga, tomate, cebolla, huevo, jamón, queso",
-                    "precio": 29000
-                },
-                {
-                    "sku": "LOM010",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Especial \"Lomi Happy\" Carne",
-                    "descripcion": "Carne y nuestra combinación secreta de ingredientes",
-                    "precio": 32000
-                },
-                {
-                    "sku": "LOM011",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Especial \"Lomi Happy\" Pollo",
-                    "descripcion": "Pollo y nuestra combinación secreta de ingredientes",
-                    "precio": 32000
-                },
-                {
-                    "sku": "LOM012",
-                    "categoria": "Lomitos Clásicos",
-                    "nombre": "Lomito Especial \"Lomi Happy\" Mixto",
-                    "descripcion": "Carne y pollo, y nuestra combinación secreta de ingredientes",
-                    "precio": 34000
-                }
-            ]
+            "nombre": "user1"
+        },
+        {
+            "nombre": "user2"
+        },
+        {
+            "nombre": "user3"
         }
     ]
 }
