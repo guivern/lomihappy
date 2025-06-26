@@ -1,13 +1,13 @@
 {
-    "users": [
+    "products": [
         {
-            "nombre": "user1"
+            "nombre": "Lomi 1"
         },
         {
-            "nombre": "user2"
+            "nombre": "Lomi 2"
         },
         {
-            "nombre": "user3"
+            "nombre": "Lomi 3"
         }
     ]
 }
